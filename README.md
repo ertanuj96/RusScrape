@@ -88,8 +88,8 @@ Optional: Install a message broker (e.g., Kafka) for distributed crawling.
 3. Installation
 Clone the repository and build the project:
 
-git clone https://github.com/yourusername/rust-scrapy.git
-cd rust-scrapy
+git clone https://github.com/ertanuj96/RusScrape.git
+cd RusScrape
 cargo build --release
 
 3. Usage
